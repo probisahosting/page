@@ -1,0 +1,4 @@
+# LmoraSoft Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+probisa.cl	TRUE	/	FALSE	1999999999	17078f196042b9a61e21b93ded491f43	cf4edd3386d0eef2e7ea0bc8c68b8b41
+
